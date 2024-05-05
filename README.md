@@ -27,7 +27,7 @@ View more on my [website](https://portfolio.com)
 ---
 ### 💾 My projects
 
-<img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
+<img src="https://media.licdn.com/dms/image/D562DAQHW0XnR_rMm0Q/profile-treasury-image-shrink_800_800/0/1714772220854?e=1715515200&v=beta&t=w85vLTisx7qlZOVIEszY96Mi0cBarzjScrfq9fZNUYg" align="left" width="400px"/> 
 
 
 
