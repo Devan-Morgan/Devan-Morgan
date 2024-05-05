@@ -27,12 +27,15 @@ View more on my [website](https://portfolio.com)
 ---
 ### 💾 My projects
 
-<img src="https://i.imgur.com/NvWoZLp.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
 
 
 
-# Level Design - Castle
-A Level Design experiment using the latest HDRP.
+# Christmas Game Jam
+This game was created for the "Jame Gam Christmas Edition" Game Jam.​
+
+
+Collaborated with a small team using Git.
 
 <br/>
 <br/>
@@ -106,5 +109,6 @@ These level design projects were created to showcase the incredible features of 
 <br/>
 <br/>
 <br/>
+
 
 View more on my [website](https://eveciana21.wixsite.com/lobogames)
