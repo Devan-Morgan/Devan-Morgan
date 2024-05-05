@@ -91,4 +91,15 @@ Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, inc
 <br/>
 <br/>
 
+<img src="https://media.licdn.com/dms/image/D562DAQEGMk0Dv073kA/profile-treasury-image-shrink_800_800/0/1714770838227?e=1715515200&v=beta&t=hL9y9zEEb3A7xfFBMi_ZDIDNQT_FxlqgVP41ZdFvd-4" align="left" width="400px"/> 
+
+# Level Design - Sci-fi Control Room
+Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, light probes, and procedural skyboxes to enhance environmental depth and realism.<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 View more on my [website](https://eveciana21.wixsite.com/lobogames)
