@@ -42,10 +42,10 @@ Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually 
 <br/>
 <br/>
 
-<img src="https://media.licdn.com/dms/image/D562DAQHW0XnR_rMm0Q/profile-treasury-image-shrink_800_800/0/1714772220854?e=1715515200&v=beta&t=w85vLTisx7qlZOVIEszY96Mi0cBarzjScrfq9fZNUYg" align="left" width="400px"/> 
+<img src="https://media.licdn.com/dms/image/D562DAQFrChoHSDpmBQ/profile-treasury-image-shrink_800_800/0/1714771858472?e=1715515200&v=beta&t=xW4WxPulgfLpqyF-5WdvlRZsx5YEI5puvFH8McLlVfo" align="left" width="400px"/> 
 
-# Level Design Castle Room
-Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
+# AR Prototype
+Designed and deployed an AR application using Unity and the XRI Interaction Toolkit, demonstrating practical application of AR technology in real-world scenarios
 
 <br/>
 <br/>
