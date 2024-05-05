@@ -29,8 +29,6 @@ View more on my [website](https://portfolio.com)
 
 <img src="https://media.licdn.com/dms/image/D562DAQHW0XnR_rMm0Q/profile-treasury-image-shrink_800_800/0/1714772220854?e=1715515200&v=beta&t=w85vLTisx7qlZOVIEszY96Mi0cBarzjScrfq9fZNUYg" align="left" width="400px"/> 
 
-
-
 # Level Design Castle Room
 Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
 
@@ -44,6 +42,19 @@ Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually 
 <br/>
 <br/>
 
+<img src="https://media.licdn.com/dms/image/D562DAQHW0XnR_rMm0Q/profile-treasury-image-shrink_800_800/0/1714772220854?e=1715515200&v=beta&t=w85vLTisx7qlZOVIEszY96Mi0cBarzjScrfq9fZNUYg" align="left" width="400px"/> 
 
+# Level Design Castle Room
+Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 View more on my [website](https://eveciana21.wixsite.com/lobogames)
