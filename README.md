@@ -31,11 +31,8 @@ View more on my [website](https://portfolio.com)
 
 
 
-# Christmas Game Jam
-This game was created for the "Jame Gam Christmas Edition" Game Jam.​
-
-
-Collaborated with a small team using Git.
+# Level Design Castle Room
+Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
 
 <br/>
 <br/>
