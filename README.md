@@ -57,6 +57,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 <img src="https://media.licdn.com/dms/image/D562DAQHuH0hU_2wYeQ/profile-treasury-image-shrink_800_800/0/1714774796168?e=1715515200&v=beta&t=9YP109JB3riOhdPsYUp6wXN5aNKpRzIUjMtXPi7fLTU" align="left" width="400px"/> 
