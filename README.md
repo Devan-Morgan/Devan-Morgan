@@ -46,7 +46,7 @@ Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually 
 Designed and deployed an AR application using Unity and the XRI Interaction Toolkit, demonstrating practical application of AR technology in real-world scenarios
 
 <br/>
-
+<br/>
 
 
 <img src="https://media.licdn.com/dms/image/D562DAQHryuHxu7vBeA/profile-treasury-image-shrink_1920_1920/0/1714771358753?e=1715515200&v=beta&t=b4bMDKLcVr03S5Q1tdz355XT4BdINpamIEj9ISbaj3c" align="left" width="400px"/> 
