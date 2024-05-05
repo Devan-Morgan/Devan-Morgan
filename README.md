@@ -78,4 +78,17 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 
+
+<img src="https://media.licdn.com/dms/image/D562DAQGCU0MrjBZL3Q/profile-treasury-image-shrink_800_800/0/1714770532959?e=1715515200&v=beta&t=X9AFc-NsK4eGLhI1OwSz3hRJOIc4_5E4KYUBaMiQLbo" align="left" width="400px"/> 
+
+# Level Design - Office Environment
+Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, incorporating screen space reflections, URP & HDRP lit shaders, and a variety of lighting techniques (baked, mixed, realtime) to create lifelike scenes.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 View more on my [website](https://eveciana21.wixsite.com/lobogames)
