@@ -11,13 +11,13 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Legacy to New Input System](https://medium.com/@eveciana21/legacy-new-input-system-interactable-8b2da4011d43)
-- [C# Survival Guide: Lambda Expressions](https://medium.com/@eveciana21/c-survival-guide-lambda-expression-8a728b741c7e)
-- [Building VR Game on Android](https://medium.com/@eveciana21/building-your-vr-game-on-android-170c4321e358)
-- [Setting Up Gaze Interactions in VR](https://medium.com/@eveciana21/setting-up-gaze-interaction-40c10d3b3941)
-- [Adding Volumetric Fog](https://medium.com/@eveciana21/adding-fog-into-my-office-scene-42f2c9e96c8a)
+- [Setting Up Grabbable Objects in VR](https://medium.com/@devanjpmorgan/setting-up-grabbable-objects-452c50fc4b70)
+- [Hand Animations in VR](https://medium.com/@devanjpmorgan/basic-hand-animations-be24aaaad61c)
+- [Audio in 3D](https://medium.com/@devanjpmorgan/sound-in-3d-84bd09cdf1e6)
+- [Two Handed VR Interactions](https://medium.com/@devanjpmorgan/grabbing-the-vr-world-with-both-hands-74890b7960f2)
+- [Camera Shake System](https://medium.com/@devanjpmorgan/creating-camera-shake-c4bc29243cd3)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://eveciana21.wixsite.com/lobogames)
+View more on my [website](https://portfolio.com)
 
 ### Languages and Tools:
 
