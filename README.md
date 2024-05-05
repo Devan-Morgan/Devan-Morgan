@@ -56,7 +56,7 @@ Designed and deployed an AR application using Unity and the XRI Interaction Tool
 <img src="https://media.licdn.com/dms/image/D562DAQHryuHxu7vBeA/profile-treasury-image-shrink_1920_1920/0/1714771358753?e=1715515200&v=beta&t=b4bMDKLcVr03S5Q1tdz355XT4BdINpamIEj9ISbaj3c" align="left" width="400px"/> 
 
 # VR Escape Room
-This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit, offers a highly immersive and interactive boiler room setting.
+This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
 
 <br/>
 <br/>
