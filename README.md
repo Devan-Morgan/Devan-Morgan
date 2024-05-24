@@ -27,7 +27,7 @@ View more on my [website](https://portfolio.com)
 ---
 ### 💾 My projects
 
-<img src="https://i.imgur.com/PNQVlOY.jpeg" align="left" width="600px" height="200px"/> 
+<img src="https://i.imgur.com/PNQVlOY.jpeg" align="left" width="400px" height="300px"/> 
 
 # Level Design Castle Room
 Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
