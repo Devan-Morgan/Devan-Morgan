@@ -155,7 +155,7 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 
-<img src="https://i.imgur.com/fNA9SEk.png" align="left" width="400px" height="400px"/> 
+<img src="https://i.imgur.com/fNA9SEk.png" align="left" width="400px" height="200px"/> 
 
 # Space Shooter Pro
 "Galaxy Shooter" showcases my journey into game development through a solo-created 2D top-down shooter, emphasizing elegant simplicity and dynamic gameplay features using the Unity Game Engine
