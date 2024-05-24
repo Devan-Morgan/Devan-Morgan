@@ -40,8 +40,7 @@ Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/Au2OYDo.png" align="left" width="400px" height="300px"/> 
@@ -57,24 +56,12 @@ Designed and deployed an AR application using Unity and the XRI Interaction Tool
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px" height="300px"/> 
 
 # VR Escape Room
 This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -98,14 +85,6 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 
@@ -113,14 +92,6 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 
 # Level Design - Office Environment
 Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, incorporating screen space reflections, URP & HDRP lit shaders, and a variety of lighting techniques (baked, mixed, realtime) to create lifelike scenes.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -142,19 +113,12 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <img src="https://i.imgur.com/fNA9SEk.png" align="left" width="400px" height="200px"/> 
 
 # Space Shooter Pro
 "Galaxy Shooter" showcases my journey into game development through a solo-created 2D top-down shooter, emphasizing elegant simplicity and dynamic gameplay features using the Unity Game Engine
+<br/>
 <br/>
 <br/>
 <br/>
