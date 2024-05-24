@@ -48,7 +48,7 @@ Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually 
 <br/>
 <br/>
 
-<img src="https://i.imgur.com/Au2OYDo.png" align="left" width="400px" height="200px"/> 
+<img src="https://i.imgur.com/Au2OYDo.png" align="left" width="400px" height="400px"/> 
 
 # AR Prototype
 Designed and deployed an AR application using Unity and the XRI Interaction Toolkit, demonstrating practical application of AR technology in real-world scenarios
@@ -66,7 +66,7 @@ Designed and deployed an AR application using Unity and the XRI Interaction Tool
 <br/>
 <br/>
 
-<img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px" height="200px"/> 
+<img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px" height="400px"/> 
 
 # VR Escape Room
 This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
@@ -89,7 +89,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 
 
-<img src="https://i.imgur.com/PeMVayu.png" align="left" width="400px" height="200px"/> 
+<img src="https://i.imgur.com/PeMVayu.png" align="left" width="400px" height="400px"/> 
 
 # VR Pentathlon
 This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
@@ -113,7 +113,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 
 
 
-<img src="https://i.imgur.com/Poycj12.png" align="left" width="400px" height="200px"/> 
+<img src="https://i.imgur.com/Poycj12.png" align="left" width="400px" height="400px"/> 
 
 # Level Design - Office Environment
 Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, incorporating screen space reflections, URP & HDRP lit shaders, and a variety of lighting techniques (baked, mixed, realtime) to create lifelike scenes.
@@ -134,7 +134,7 @@ Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, inc
 <br/>
 <br/>
 
-<img src="https://i.imgur.com/w1VeECZ.png" align="left" width="400px" height="200px"/> 
+<img src="https://i.imgur.com/w1VeECZ.png" align="left" width="400px" height="400px"/> 
 
 # Level Design - Sci-fi Control Room
 Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, light probes, and procedural skyboxes to enhance environmental depth and realism.<br/>
@@ -155,7 +155,7 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 
-<img src="https://i.imgur.com/dTgAPIF.png" align="left" width="400px" height="200px"/> 
+<img src="https://i.imgur.com/dTgAPIF.png" align="left" width="400px" height="400px"/> 
 
 # Space Shooter Pro
 "Galaxy Shooter" showcases my journey into game development through a solo-created 2D top-down shooter, emphasizing elegant simplicity and dynamic gameplay features using the Unity Game Engine
