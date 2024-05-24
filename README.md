@@ -54,8 +54,7 @@ Designed and deployed an AR application using Unity and the XRI Interaction Tool
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px" height="300px"/> 
 
