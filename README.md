@@ -67,8 +67,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/PeMVayu.png" align="left" width="400px" height="300px"/> 
@@ -82,8 +81,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 
@@ -97,8 +95,7 @@ Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, inc
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <img src="https://i.imgur.com/w1VeECZ.png" align="left" width="400px" height="300px"/> 
 
@@ -110,8 +107,7 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <img src="https://i.imgur.com/fNA9SEk.png" align="left" width="400px" height="200px"/> 
 
@@ -123,7 +119,6 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 View more on my [website](https://eveciana21.wixsite.com/lobogames)
