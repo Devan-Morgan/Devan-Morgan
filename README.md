@@ -56,8 +56,11 @@ Designed and deployed an AR application using Unity and the XRI Interaction Tool
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
-<img src="https://media.licdn.com/dms/image/D562DAQHryuHxu7vBeA/profile-treasury-image-shrink_1920_1920/0/1714771358753?e=1715515200&v=beta&t=b4bMDKLcVr03S5Q1tdz355XT4BdINpamIEj9ISbaj3c" align="left" width="400px"/> 
+<img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px"/> 
 
 # VR Escape Room
 This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
@@ -66,13 +69,21 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-<img src="https://media.licdn.com/dms/image/D562DAQHuH0hU_2wYeQ/profile-treasury-image-shrink_800_800/0/1714774796168?e=1715515200&v=beta&t=9YP109JB3riOhdPsYUp6wXN5aNKpRzIUjMtXPi7fLTU" align="left" width="400px"/> 
+<img src="https://i.imgur.com/PeMVayu.png" align="left" width="400px"/> 
 
 # VR Pentathlon
 This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
