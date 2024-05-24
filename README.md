@@ -67,6 +67,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 
@@ -89,6 +90,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 
 # Level Design - Office Environment
 Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, incorporating screen space reflections, URP & HDRP lit shaders, and a variety of lighting techniques (baked, mixed, realtime) to create lifelike scenes.
+<br/>
 <br/>
 <br/>
 <br/>
