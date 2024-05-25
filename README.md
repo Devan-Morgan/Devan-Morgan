@@ -37,6 +37,7 @@ Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually 
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 
@@ -51,7 +52,7 @@ Designed and deployed an AR application using Unity and the XRI Interaction Tool
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 
 
@@ -65,7 +66,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 
 
@@ -80,7 +81,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 
 
@@ -95,7 +96,7 @@ Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, inc
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 
 
@@ -107,7 +108,7 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 
 
