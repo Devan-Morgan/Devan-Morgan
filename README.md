@@ -39,7 +39,7 @@ Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually 
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 
@@ -53,7 +53,7 @@ Designed and deployed an AR application using Unity and the XRI Interaction Tool
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px" height="250px"/> 
@@ -67,7 +67,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 
@@ -82,7 +82,7 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 
@@ -97,7 +97,7 @@ Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, inc
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/w1VeECZ.png" align="left" width="400px" height="250px"/> 
@@ -109,7 +109,7 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/fNA9SEk.png" align="left" width="400px" height="250px"/> 
@@ -121,7 +121,7 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 View more on my [website](https://eveciana21.wixsite.com/lobogames)
