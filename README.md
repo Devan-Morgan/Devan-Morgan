@@ -16,7 +16,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 - [Two Handed VR Interactions](https://medium.com/@devanjpmorgan/grabbing-the-vr-world-with-both-hands-74890b7960f2)
 - [Camera Shake System](https://medium.com/@devanjpmorgan/creating-camera-shake-c4bc29243cd3)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://portfolio.com)
+View more on my [website](https://devanjpmorgan.wixsite.com/website-4)
 
 ### Languages and Tools:
 
